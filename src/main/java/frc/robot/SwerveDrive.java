@@ -13,7 +13,6 @@ import edu.wpi.first.math.kinematics.ChassisSpeeds;
 import com.ctre.phoenix6.mechanisms.swerve.SwerveModule;
 import swervelib.imu.Pigeon2Swerve;
 
-
 // Example SwerveDrive class
 public class SwerveDrive extends SubsystemBase
 {
